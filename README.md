@@ -1,7 +1,5 @@
 # AgileTribers Task 3
 
-This repository contains solutions for AgileTribers Task 3.
-
 ## Exercises
 
 | Exercise | Screenshot |
